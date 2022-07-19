@@ -1,0 +1,1 @@
+(self.webpackChunktradingviewchart=self.webpackChunktradingviewchart||[]).push([[563],{36563:function(){}}]);
